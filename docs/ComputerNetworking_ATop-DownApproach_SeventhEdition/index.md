@@ -7,11 +7,11 @@ layout: default
 ### Cha_One: Computer Network and Internet
 
 #### 1. Summary
-#### [2. Review]({{ site.url }}/docs/ComputerNetworking_ATop-DownApproach_SeventhEdition/Cha_One/Review/index.html)
+#### [2. Review]({{ site.siteurl }}/docs/ComputerNetworking_ATop-DownApproach_SeventhEdition/Cha_One/Review/index.html)
 #### 3. Problem
 
 ### Cha_Two: Application Layer
 
 #### Python-socket-programming-assignments
-##### [1. WebServer]({{ site.url }}/docs/ComputerNetworking_ATop-DownApproach_SeventhEdition/Cha_Two/Python-socket-programming-assignments/WebServer/SourceCode.html)
+##### [1. WebServer]({{ site.siteurl }}/docs/ComputerNetworking_ATop-DownApproach_SeventhEdition/Cha_Two/Python-socket-programming-assignments/WebServer/SourceCode.html)
 

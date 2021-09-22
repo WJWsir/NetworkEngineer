@@ -4,6 +4,9 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
 lang: en-US
+siteurl: "https://wjwsir.github.io/NetworkEngineer"
+url: "https://wjwsir.github.io"
+baseurl: "/NetworkEngineer"
 github:
   repository_name: NetworkEngineer
   project_tagline: Obtain the NetworkEngineer certificate
