@@ -13,5 +13,6 @@ layout: default
 ### Cha_Two: Application Layer
 
 #### Python-socket-programming-assignments
-##### [1. WebServer]({{ site.siteurl }}/docs/ComputerNetworking_ATop-DownApproach_SeventhEdition/Cha_Two/Python-socket-programming-assignments/WebServer/SourceCode.html)
+##### [1. WebServer]({{ site.siteurl }}/docs/ComputerNetworking_ATop-DownApproach_SeventhEdition/Cha_Two/Python-socket-programming-assignments/WebServer/Problem.html)
+##### [2. UDPPinger]({{ site.siteurl }}/docs/ComputerNetworking_ATop-DownApproach_SeventhEdition/Cha_Two/Python-socket-programming-assignments/UDPPinger/Problem.html)
 
